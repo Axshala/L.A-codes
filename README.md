@@ -56,7 +56,9 @@ To get this project up and running on your local machine:
 
 2. Navigate into the project folder:
     ```bash
-    cd portfolio
+Open Aisha's Zip,
+Open L.A codes ,
+Open N.H.F,
     ```
 
 3. Open the **index.html** file in your browser to view the website:
