@@ -56,7 +56,7 @@ To get this project up and running on your local machine:
 
 2. Navigate into the project folder:
     ```bash
-Open N.H.F
+open n.h.f
     ```
 
 3. Open the **index.html** file in your browser to view the website:
