@@ -7,7 +7,7 @@ Frontend portfolio – featuring interactive JavaScript apps and clean UI.
 ---
 
 ## 🚀 Live Demo
-[Live Demo](https://github.com/Axshala/L.A-codes)
+[Live Demo](https://axshala.github.io/L.A-codes/)
 
 
 ## 📁 Project Structure
