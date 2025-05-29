@@ -6,7 +6,7 @@ a sleek, responsive website built to showcase frontend development,UI/UX design 
 ---
 
 ## 🚀 Live Demo
-[Live Demo]()
+[Live Demo](https://axshala.github.io/L.A-codes/)
 
 
 ## 📁 Project Structure
