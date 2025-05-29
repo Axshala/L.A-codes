@@ -1,13 +1,12 @@
-# 🌐 L.A-codes || Frontend Developer Portfolio
+# 🌐 Aisha | Frontend Developer Portfolio
 
 Welcome to **A'I Crafted'** 
-a sleek, responsive website built to showcase frontend development,UI/UX design skills, projects, and experiences.
-Frontend portfolio – featuring interactive JavaScript apps and clean UI.
+a sleek, responsive website built to showcase frontend development,UI/UX design skills, projects, and certifications.
 
 ---
 
 ## 🚀 Live Demo
-[Live Demo](https://axshala.github.io/L.A-codes/)
+[Live Demo](https://github.com/Axshala/L.A-codes)
 
 
 ## 📁 Project Structure
@@ -51,7 +50,8 @@ To get this project up and running on your local machine:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/Axshala/L.A-codes.git
+    git clone https://github.com/aisha.la/a'i-craftedo.git
+    cd a'i-crafted
     ```
 
 2. Navigate into the project folder:
@@ -89,7 +89,6 @@ Designed & Developed by Aisha — 100% custom-built with ❤️, it tested my st
 This project is open source and available under the [MIT License](LICENSE).
 
 > Let's build something amazing together — feel free to contribute, fork, or connect!
-
 
 
 
